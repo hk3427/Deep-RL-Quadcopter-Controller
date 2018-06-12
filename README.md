@@ -4,7 +4,7 @@
 
 In this project, you will design an agent to fly a quadcopter, and then train it using a reinforcement learning algorithm of your choice! 
 
-## Project Instructions
+## Project Instructions(Takeoff Task)
 
 1. Clone the repository and navigate to the downloaded folder.
 
